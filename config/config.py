@@ -74,7 +74,7 @@ YAFA_CHANNEL = getenv(
    " YAFA_CHANNEL", "https://t.me/Tepthon"
 )  # رابط قناتك
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/Tepthon"
+    "SUPPORT_CHANNEL", None
 )  # رابط قناتك
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", None
