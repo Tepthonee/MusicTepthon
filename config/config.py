@@ -74,10 +74,10 @@ YAFA_CHANNEL = getenv(
    " YAFA_CHANNEL", "https://t.me/Tepthon"
 )  # رابط قناتك
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", ,"https://t.me/Tepthon"
+    "SUPPORT_CHANNEL", "https://t.me/Tepthon"
 )  # رابط قناتك
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "t.me/ZYYFF"
+    "SUPPORT_GROUP", None
 )  # رابط كروبك
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
